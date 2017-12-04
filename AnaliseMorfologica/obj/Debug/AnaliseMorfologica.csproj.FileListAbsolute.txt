@@ -1,0 +1,23 @@
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.exe.config
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.exe
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.pdb
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologicaLib.dll
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologicaLib.pdb
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.csprojResolveAssemblyReference.cache
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.FormMain.resources
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.Properties.Resources.resources
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.csproj.GenerateResource.Cache
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.csproj.CoreCompileInputs.cache
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.exe
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.pdb
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.exe.config
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.exe
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologica.pdb
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologicaLib.dll
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\bin\Debug\AnaliseMorfologicaLib.pdb
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.csprojResolveAssemblyReference.cache
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.FormMain.resources
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.Properties.Resources.resources
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.csproj.GenerateResource.Cache
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.exe
+C:\Users\erick\Downloads\AnaliseMorfologica-master\AnaliseMorfologica\AnaliseMorfologica\obj\Debug\AnaliseMorfologica.pdb

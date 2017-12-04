@@ -1,0 +1,6 @@
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\bin\Debug\AnaliseMorfologicaLib.dll
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\bin\Debug\AnaliseMorfologicaLib.pdb
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\obj\Debug\AnaliseMorfologicaLib.csprojResolveAssemblyReference.cache
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\obj\Debug\AnaliseMorfologicaLib.csproj.CoreCompileInputs.cache
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\obj\Debug\AnaliseMorfologicaLib.dll
+C:\Users\emori\Downloads\AnaliseMorfologica - Sala de Aula\AnaliseMorfologica\AnaliseMorfologicaLib\obj\Debug\AnaliseMorfologicaLib.pdb
